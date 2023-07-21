@@ -1,3 +1,5 @@
 # Custom Dictionary Words
-
+cout
+endl
 Gregorie
+iostream
